@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510174265821",
+    "project_id": "kpmproducts-d9110",
+    "storage_bucket": "kpmproducts-d9110.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510174265821:android:9148061721b6053eaf3634",
+        "android_client_info": {
+          "package_name": "com.gokulsundar4545.kpm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFOrJlAk8TIoPGgEYb0XPK6Ot1IYIcVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
